@@ -44,6 +44,7 @@ PRODUTOS = {
         "Windows 11 Pro",
         "macOS Sonoma",
         "Ubuntu 24.04 LTS",
+        "Linux Mint 21.3"
     ],
 }
 
